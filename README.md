@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BlockyBlockling
-- 👀 I’m interested in coding backend
-- 🌱 I’m currently learning ruby for discourse
+- 👀 I’m interested in coding backend and work on UX
+- 🌱 I’m currently learning go and zig
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
