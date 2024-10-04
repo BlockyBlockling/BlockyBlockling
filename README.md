@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BlockyBlockling
 - 👀 I’m interested in coding backend and work on UX
-- 🌱 I’m currently learning go and zig
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ThreeJS
+- 💞️ I’m looking to collaborate on prismarineJS
 - 📫 How to reach me ...
 
 <!---
